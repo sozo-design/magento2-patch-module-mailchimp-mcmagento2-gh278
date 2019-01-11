@@ -1,4 +1,4 @@
-# Magento 2 Sales Module Patch
+# Magento 2 Mailchimp Module Patch
 
 ## Reported issue
 https://github.com/mailchimp/mc-magento2/issues/278
