@@ -1,0 +1,7 @@
+{
+  "patches": {
+    "mailchimp/mc-magento2": {
+      "Mailchimp 1.0.28 Cron FNAME, LNAME blockage fix": "../environments/global/patches/mailchimp/mc-magento2/1.0.28_cron_fix_v1.patch"
+    }
+  }
+}
